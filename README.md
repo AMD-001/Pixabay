@@ -1,4 +1,4 @@
-# new_team
+# picture
 
 ## Project setup
 ```
